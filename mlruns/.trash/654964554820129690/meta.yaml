@@ -1,8 +1,0 @@
-artifact_location: mlflow-artifacts:/654964554820129690
-creation_time: 1771472534119
-experiment_id: '654964554820129690'
-last_update_time: 1771479359668
-lifecycle_stage: deleted
-name: Kaggle Experiment
-tags:
-  mlflow.experimentKind: custom_model_development
