@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/654964554820129690/7ab22c6330f94306af4e3802190d69eb/artifacts
+deleted_time: 1771479359668
+end_time: 1771478516077
+entry_point_name: ''
+experiment_id: '654964554820129690'
+lifecycle_stage: deleted
+run_id: 7ab22c6330f94306af4e3802190d69eb
+run_name: RandomForest
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1771478508240
+status: 3
+tags: []
+user_id: Seu Computador
