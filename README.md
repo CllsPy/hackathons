@@ -1,4 +1,4 @@
-| competition name                                                                               | solutions                                                                            | date    | ranking  |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------ | ------- | -------- |
-| [S6E2](https://www.kaggle.com/competitions/playground-series-s6e2)                             | [Here](https://github.com/CllsPy/hackathons/tree/main/S6E2)                          | Feb 1th | 200/3000 |
-| [Concrete Strength](https://www.kaggle.com/competitions/concrete-strength-regression/overview) | [Here](https://www.kaggle.com/competitions/concrete-strength-regression/leaderboard) | 2y Ago  | 1/22     |
+| competition name                                                                               | solutions                                                                                  | date        | ranking  |
+| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------- | -------- |
+| [S6E2](https://www.kaggle.com/competitions/playground-series-s6e2)                             | [Here](https://github.com/CllsPy/hackathons/tree/main/S6E2)                                | Feb 1, 2026 | 200/3000 |
+| [Concrete Strength](https://www.kaggle.com/competitions/concrete-strength-regression/overview) | [Here](https://www.kaggle.com/competitions/concrete-strength-regression/discussion/493878) | Apr 6, 2024 | 1/22     |
